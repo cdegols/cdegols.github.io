@@ -1,2 +1,7 @@
+# https://www.yakaferci.com/robotstxt/
+# http://robots-txt.com/
+
+# Sitemap: http://www.example.net/sitemap.xml
+
 User-agent: *
 Disallow: /
