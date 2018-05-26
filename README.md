@@ -36,18 +36,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# link
+## link
 - (http://www.info.univ-angers.fr/~gh/selfhtml_fr/index.htm)
 - (https://developer.mozilla.org/fr/)
 - (https://www.w3schools.com/)
 - (https://caniuse.com/)  
 
-
-* (https://forum.alsacreations.com/topic-1-77320-1-Balise-meta-Content-Security-Policy-et-validation-W3C.html)
-* (https://developer.mozilla.org/fr/docs/Web/HTTP/Headers/Content-Security-Policy)
-* (https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
-* (https://developer.mozilla.org/fr/docs/Web/HTTP/CSP)
-* (https://content-security-policy.com/)  
-
+- (https://forum.alsacreations.com/topic-1-77320-1-Balise-meta-Content-Security-Policy-et-validation-W3C.html)
+- (https://developer.mozilla.org/fr/docs/Web/HTTP/Headers/Content-Security-Policy)
+- (https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
+- (https://developer.mozilla.org/fr/docs/Web/HTTP/CSP)
+- (https://content-security-policy.com/)  
 
 - (https://validator.w3.org/)
