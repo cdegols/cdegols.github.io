@@ -46,6 +46,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * (https://developer.mozilla.org/fr/docs/Web/HTTP/Headers/Content-Security-Policy)
 * (https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
 * (https://developer.mozilla.org/fr/docs/Web/HTTP/CSP)
-* (https://content-security-policy.com/)  
+* (https://content-security-policy.com/)
 
 - (https://validator.w3.org/)
