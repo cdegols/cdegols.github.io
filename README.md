@@ -42,10 +42,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - (https://www.w3schools.com/)
 - (https://caniuse.com/)  
 
-- (https://forum.alsacreations.com/topic-1-77320-1-Balise-meta-Content-Security-Policy-et-validation-W3C.html)
-- (https://developer.mozilla.org/fr/docs/Web/HTTP/Headers/Content-Security-Policy)
-- (https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
-- (https://developer.mozilla.org/fr/docs/Web/HTTP/CSP)
-- (https://content-security-policy.com/)  
+* (https://forum.alsacreations.com/topic-1-77320-1-Balise-meta-Content-Security-Policy-et-validation-W3C.html)
+* (https://developer.mozilla.org/fr/docs/Web/HTTP/Headers/Content-Security-Policy)
+* (https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
+* (https://developer.mozilla.org/fr/docs/Web/HTTP/CSP)
+* (https://content-security-policy.com/)  
 
 - (https://validator.w3.org/)
